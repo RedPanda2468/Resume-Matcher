@@ -356,3 +356,4 @@ To use this:-
 Open Docker Desktop app
 open the current folder containig project in terminal/vscode
 docker compose up -d
+open application at "http://localhost:3000/" manually, it might not show in browser.
