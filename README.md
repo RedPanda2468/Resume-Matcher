@@ -349,3 +349,10 @@ Check out the roadmap if you would like to work on the features that are planned
 ## Resume Matcher is a part of [Vercel Open Source Program](https://vercel.com/oss)
 
 ![Vercel OSS Program](https://vercel.com/oss/program-badge.svg)
+
+
+
+To use this:-
+Open Docker Desktop app
+open the current folder containig project in terminal/vscode
+docker compose up -d
